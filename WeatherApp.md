@@ -223,4 +223,4 @@ min_temp.place(x=128, y=460)
 root.mainloop()
 ```
 ### 📌 Output:
-![](images.png)
+![](image.png)
